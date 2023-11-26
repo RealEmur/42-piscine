@@ -1,8 +1,8 @@
-##42 Piscine - 2023
+## 42 Piscine - 2023
 This repository contains all my projects i have done during piscine at 42 Istanbul.
-##Warning!
+## Warning!
 If you are a student at piscine do not copy codes to pass projects. Trust me that will harm you more than good. Try to get inspired by my code and write your own.
-##My Grades.
+## My Grades:
 
 |  Project    | Complete | Status |
 | ------------- | ------------- | ------------- |
